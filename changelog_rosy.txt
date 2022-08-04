@@ -6,12 +6,16 @@ Required firmware: v48
 
 
 ━━━━━━━━━━━ஜ۩۞۩ஜ━━━━━━━━━━
-         2022.07.17        
+       🔥 2022.08.05 🔥
 ━━━━━━━━━━━ஜ۩۞۩ஜ━━━━━━━━━━
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━
-┣➠ Synced Latest riceDroid v3.5 changes
+┣➠ Synced Latest riceDroid v4.0 changes
 ┣➠ Updated to July security patch
 ┣➠ Initial update witch OTA supported
-┣➠ Kernel: 4.9.325 (CAF) - LA.UM.10.6.2.r1-02200-89xx.0 (Proton Clang 13.0.0)
+┣➠ Kernel: 4.9.325 (M•R•T) - LA.UM.10.6.2.r1-02200-89xx.0 (Proton Clang 13.0.0)
+┣➠ Release snap Camera with GrapheneOS Camera
+┣➠ Speed up animations to 0,5x (50%)
+┣➠ [Kernel] Don't sync when entering suspend
+┣➠ [Kernel] improve CPU and GPU Frequency
 ┣➠ Misc. Fixes and Improvements
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━
