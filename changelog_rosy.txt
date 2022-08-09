@@ -10,6 +10,7 @@ Required firmware: v48
  ├ Updated MSM IRQ-Balance from FP3
  ├ Updated Android Binder kernel driver
  ├ Enabled QCOM Mwqem features
+ ├ Enabled again wallpaper zoming, because disable feature already in settings display
  ├ August security patch
  ├ Updated boot scripts from CAF
  ├ Updated Power HAL configs
