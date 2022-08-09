@@ -4,6 +4,22 @@ Device: Redmi 5 (rosy)
 Device maintainer: NFS-Projects™
 Required firmware: v48
 
+ ❏ ✨ Device Changelog v4.5✨
+ ├ Audio HAL upgraded to v7
+ ├ Switched to Pixel Power HAL (libperfmgr)
+ ├ Updated MSM IRQ-Balance from FP3
+ ├ Updated Android Binder kernel driver
+ ├ Enabled QCOM Mwqem features
+ ├ August security patch
+ ├ Updated boot scripts from CAF
+ ├ Updated Power HAL configs
+ ├ Disabled per-cgroup RT tasks
+ ├ Disabled Sched Autogroup
+ ├ Fixed ringback tone in IMS calls
+ ├ Added display idle_state for Power HAL
+ ├ Added Moto Dolby
+ ├ Adjusted CPU scheduler rate limits
+ └ Removed unused platforms from Thermal HAL
 
 ━━━━━━━━━━━ஜ۩۞۩ஜ━━━━━━━━━━
        🔥 2022.08.05 🔥
